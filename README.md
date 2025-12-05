@@ -15,9 +15,6 @@ This project includes:
 
 ---
 
-
----
-
 ## 🧠 Models Developed  
 
 ### **1️⃣ Classification Model — Will the Customer Churn?**  
